@@ -1,9 +1,9 @@
-#!/usr/bin/env bash
-"""returns the floor of the passed argumrnt
-"""
+#!/usr/bin/env python3
+'''Task 2's module.
+'''
 
 
 def floor(a: float) -> int:
-    """Returns the floor of a
-    """
+    '''Computes the floor of a floating-point number.
+    '''
     return int(a)
